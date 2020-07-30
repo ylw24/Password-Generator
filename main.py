@@ -1,3 +1,7 @@
+import random
+import string
+import itertools
+
 loop = True
 
 
