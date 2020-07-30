@@ -1,5 +1,5 @@
 # Password-Generator
-### generates a password - Current projecct
+### generates a password - Working project
 
 ## Current:
 generates a random 10-digit password with 5 numbers, 3 letters, and 2 symbols
