@@ -1,3 +1,4 @@
+import random
 import string
 import itertools
 
@@ -30,10 +31,13 @@ def GRS():
         symbol.append(random.choice(string.punctuation))
     return symbol
 
-print("What password type would you like to generate?")
-print("a) standard 10-digit password")
-action = input()
-if action == 'a':
-    print(password())
-else:
-    print("invalid input")
+while True:
+    print("What password type would you like to generate?")
+    print("a) standard 10-digit password")
+    action = input()
+    if action == 'a':
+        print(password())
+        break
+    else:
+        print("invalid input, please enter a letter.")
+        continue
