@@ -2,9 +2,9 @@
 ### generates a password - Working project
 
 ## Current:
-generates a random 10-digit password with 5 numbers, 3 letters, and 2 symbols
+1. generates a random 10-digit password with 5 numbers, 3 letters, and 2 symbols
+2. allow user to custom number/letter/symbol/password length 
 
 ## Future plans:
-1. add user option regarding length and type of password
-2. add user preference of custom words to add
-3. turn into website
+1. add user preference of custom words to add
+2. turn into website
