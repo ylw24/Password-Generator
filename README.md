@@ -8,4 +8,5 @@
 4. saved password list
 
 ## Future plans:
-1. turn into website
+1. turn into website (stopped: can't figure out how to integrate python with HTML/CSS - Note: wanted to use HTML/CSS for review benefits, didn't want to learn Django or Web2py due to time management issues) 
+2. turn into app 
