@@ -9,4 +9,4 @@
 
 ## Future plans:
 1. turn into website (made seperately with CodePen - can't figure out how to integrate Python with HTML/CSS, so I simply praticed my HTML/CSS skill seperately - I wanted to use HTML/CSS for review purposes and didn't want to learn Django or Web2py yet) 
-2. turn into app 
+2. turn into app (this will be done as practice when I have application developing knowledge - current progress: made a chatbox in Flutter/Dart with android studio virtual device by following youtube series)
