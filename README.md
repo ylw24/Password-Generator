@@ -1,5 +1,5 @@
 # Password-Generator
-### generates a password - Working project
+### generates/suggests a password with customization features
 
 ## Current:
 1. generates a random 10-digit password with 5 numbers, 3 letters, and 2 symbols
